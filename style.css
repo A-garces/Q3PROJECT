@@ -1,0 +1,48 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.logo {
+    width: 130px;
+    height: 70px;
+}
+
+.search {
+    background-color: #cd8ad4;
+}
+
+.search:hover {
+    background-color: #cd8ad4;
+}
+
+h2 {
+    padding: 0.7%;
+    text-align: center;
+    margin-top: 0.5%;
+    background-color: #cd8ad4;
+    color: white;
+}
+
+.notice {
+    text-align: center;
+    color: black;
+}
+
+.schedule {
+    padding: 100px;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+td {
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
